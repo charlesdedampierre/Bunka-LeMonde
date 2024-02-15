@@ -8,6 +8,7 @@ __pycache__/
 *exports
 *raw_data
 *data
+embeddings
 
 # C extensions
 *.so
